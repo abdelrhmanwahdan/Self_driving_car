@@ -5,6 +5,7 @@
     - Pytorch (The brain of the car using Pytorch ANNS.)
     - kivy (The environment using Kivy library.)
     - Matplotlib (the visualization of the car performance)
+  [self driving car](self_driving_car.mp4)
 
 ## Table of contents
 
