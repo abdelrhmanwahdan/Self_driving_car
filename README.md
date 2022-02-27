@@ -6,7 +6,6 @@
     - kivy (The environment using Kivy library.)
     - Matplotlib (the visualization of the car performance)
 
-![Self Driving car](self_driving_car.mp4)
 ## Table of contents
 
 1. ai.py : the brain of the car 
