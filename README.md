@@ -6,7 +6,7 @@
     - kivy (The environment using Kivy library.)
     - Matplotlib (the visualization of the car performance)
 
-![Self driving car](self_driving_car.mp4 "demo video")
+![Self driving car](images_videos/self_driving_car.png "self driving car")
 
 ## Table of contents
 
