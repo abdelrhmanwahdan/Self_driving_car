@@ -8,6 +8,7 @@
 
 ![Self driving car](images_videos/self_driving_car.png "self driving car")
 
+
 ## Table of contents
 
 1. ai.py : the brain of the car 
@@ -28,4 +29,4 @@
 after running the project you can left click on the mouse to start drawing some sand to the car and let it learn from it's new environment.
 
 ## Materials
-- thanks to the great [Artificial Intelligence A-Z™: Learn How To Build An AI course] (https://www.udemy.com/course/artificial-intelligence-az/) on udemy which is a hands on projects guide to learn reinforcment learning.
+- thanks to the great [Artificial Intelligence A-Z™: Learn How To Build An AI course](https://www.udemy.com/course/artificial-intelligence-az/) on udemy which is a hands on projects guide to learn reinforcment learning.
