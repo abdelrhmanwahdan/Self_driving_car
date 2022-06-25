@@ -1,6 +1,6 @@
 # Self driving car
 
-- In this project I have implemented a virtual self driving car wich is trying to reach it's destination (up left corner and bottom right corner) while it's trying to learn to avoid sand and move in clear road through reinforcement learning.
+- In this project, I have implemented a virtual self-driving car that is trying to reach its destination (up left corner and bottom right corner) while it's trying to learn to avoid sand and move on a clear road through reinforcement learning.
 - The technologies which I have used to implement this project are :
     - Pytorch (The brain of the car using Pytorch ANNS.)
     - kivy (The environment using Kivy library.)
